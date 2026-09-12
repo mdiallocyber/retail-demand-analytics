@@ -72,3 +72,33 @@ retail-demand-analytics/
 ├── retail_sales.db
 └── retail_store_inventory-selected-columns.csv
 ```
+## Tableau Dashboard
+
+An interactive Tableau dashboard was created to visualize key patterns in the retail dataset.
+
+The dashboard includes:
+
+- **Sales by Category** – compares total units sold across product categories
+- **Sales by Region** – compares sales performance across geographic regions
+- **Monthly Sales Trend** – shows changes in units sold over time
+- **Inventory by Category** – compares inventory levels across product categories
+
+The dashboard also includes interactive filtering, allowing users to select a product category and dynamically update the other visualizations.
+
+### View Interactive Dashboard
+
+[View the Retail Sales & Inventory Dashboard on Tableau Public](https://public.tableau.com/app/profile/mohamed.diallo3513/viz/RetailSalesInventoryDashboard_17891815893930/Dashboard1?publish=yes)
+
+## Tools & Technologies
+
+- Python
+- Pandas
+- Jupyter Notebook
+- Scikit-learn
+- Matplotlib
+- Tableau
+- Git & GitHub
+
+## Key Takeaways
+
+This project demonstrates an end-to-end data analytics workflow, including data cleaning, exploratory analysis, predictive modeling, data visualization, and communicating results through an interactive dashboard.
